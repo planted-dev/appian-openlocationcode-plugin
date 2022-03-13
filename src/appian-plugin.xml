@@ -1,0 +1,9 @@
+<appian-plugin name="${project.name}" key="${project.groupId}">
+    <plugin-info>
+        <description>${project.description}</description>
+        <vendor url="${project.url}" />
+        <version>${project.version}</version>
+    </plugin-info>
+    <!-- Functions -->
+    <function key="OpenLocationCode" class="${project.groupId}.OpenLocationCode" />
+</appian-plugin>
