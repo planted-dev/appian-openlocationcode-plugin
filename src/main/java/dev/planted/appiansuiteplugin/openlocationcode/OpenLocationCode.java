@@ -1,4 +1,4 @@
-package dev.planted.appian.suite.plugin.openlocationcode;
+package dev.planted.appiansuiteplugin.openlocationcode;
 
 import com.google.openlocationcode.OpenLocationCode.CodeArea;
 
