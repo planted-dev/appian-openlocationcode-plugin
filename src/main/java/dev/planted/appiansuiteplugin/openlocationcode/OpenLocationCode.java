@@ -13,9 +13,6 @@ import com.appiancorp.suiteapi.expression.annotations.Parameter;
 import com.appiancorp.suiteapi.type.AppianType;
 import com.appiancorp.suiteapi.type.TypedValue;
 
-/**
- * Functions for Open Location Code
- */
 @AppianScriptingFunctionsCategory
 public class OpenLocationCode {
   @Function
