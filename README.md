@@ -6,5 +6,5 @@ _This assumes you have the Appian SDK installed in your local Maven repo_
 1. Clone the repo
 2. In a terminal, run the following command:
 ```
-mvn clean compile dependency:copy assembly:single
+mvn package
 ```
